@@ -77,8 +77,6 @@ ObstacleAssault/.vsconfig
 
 .vscode
 
-Images/*
-
 # Compiled source files for the engine to use
 Intermediate
 ObstacleAssault/Intermediate/*
